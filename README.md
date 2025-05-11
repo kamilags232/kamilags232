@@ -1,28 +1,41 @@
-# 👋 Olá! Eu sou a Kamila Gomes da Silva
+# 👋 Hi there! I'm Kamila Gomes da Silva
 
-🎓 Estudante de Ciência da Computação no UniCEUB – apaixonada por tecnologia, design e criatividade!  
-🎨 Ilustradora digital e criadora de conteúdo visual com foco em identidade artística.  
-💡 Busco oportunidades como estagiária na área de tecnologia, especialmente onde eu possa unir arte e programação para criar experiências únicas e visuais.
-
----
-
-## 🧠 Habilidades Técnicas
-
-- 💻 **Python (básico)** – lógica de programação e manipulação de dados simples  
-- 🌐 **Criação de sites** – experiência com plataformas visuais como Wix e Canva  
-- 🖌️ **Design visual** – edição de imagens, diagramação digital e criação de portfólios  
+🎓 Computer Science student at UniCEUB – passionate about technology, design, and creativity!  
+🎨 Digital illustrator and visual content creator with a strong focus on artistic identity.  
+💡 Currently seeking an internship opportunity where I can blend art and technology to build meaningful and visually engaging projects.
 
 ---
 
-## ✨ Habilidades Criativas e Interpessoais
+## 🧠 Technical Skills
 
-- 🎨 Ilustração digital e criação de estampas  
-- 🎭 Composição artística e identidade visual  
-- 🎯 Atenção aos detalhes, boa comunicação visual e autonomia em projetos  
+- 💻 **Python (beginner)** – basic programming logic and simple data manipulation  
+- 🌐 **Website building** – experience using visual platforms like Wix and Canva  
+- 🖌️ **Visual design** – image editing, digital layout, and portfolio creation  
 
 ---
 
-## 🧩 Projetos Pessoais
+## ✨ Creative & Interpersonal Skills
 
-- 👕 Criação de estampas para camisas e moletons  
-- 🎻 Violinista há 5 anos – arte em múltipl
+- 🎨 Digital illustration and custom artwork for prints  
+- 🎭 Artistic composition and visual storytelling  
+- 🎯 Detail-oriented, strong visual communication, and self-managed in projects  
+
+---
+
+## 🧩 Personal Projects
+
+- 👕 Designed prints for t-shirts and hoodies  
+- 🎻 Violinist for over 5 years – expressing art through music  
+- 🧷 Exploring artistic tattoo design in my spare time  
+
+---
+
+## 📫 Get in Touch
+
+- 📧 kamila.gs@sempreceub.com  
+- 📱 +55 61 99552-9390  
+- 📍 Planaltina, DF – Brazil  
+
+---
+
+> "Art and technology go hand in hand to turn ideas into powerful visual experiences."
