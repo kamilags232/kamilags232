@@ -1,41 +1,31 @@
-# 👋 Hi there! I'm Kamila Gomes da Silva
+<!-- BANNER DO TOPO (substitua pelo link do seu GIF ou imagem) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,35:E2D1F9,70:CFE8FF,100:D4F8E8&height=210&section=header&text=Kami%27s%20Github&fontSize=48&fontColor=4A4063&fontAlignY=38&animation=twinkling" width="100%" />
+</p>
 
-🎓 Computer Science student at UniCEUB – passionate about technology, design, and creativity!  
-🎨 Digital illustrator and visual content creator with a strong focus on artistic identity.  
-💡 Currently seeking an internship opportunity where I can blend art and technology to build meaningful and visually engaging projects.
+### Languages
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 
----
+### Technologies
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=orange)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
 
-## 🧠 Technical Skills
+### Projects
+[![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
+[![Projeto 2](https://img.shields.io/badge/Dashboard-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
+[![Projeto 3](https://img.shields.io/badge/API%20REST-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
 
-- 💻 **Python (beginner)** – basic programming logic and simple data manipulation  
-- 🌐 **Website building** – experience using visual platforms like Wix and Canva  
-- 🖌️ **Visual design** – image editing, digital layout, and portfolio creation  
+<br>
 
----
-
-## ✨ Creative & Interpersonal Skills
-
-- 🎨 Digital illustration and custom artwork for prints  
-- 🎭 Artistic composition and visual storytelling  
-- 🎯 Detail-oriented, strong visual communication, and self-managed in projects  
-
----
-
-## 🧩 Personal Projects
-
-- 👕 Designed prints for t-shirts and hoodies  
-- 🎻 Violinist for over 5 years – expressing art through music  
-- 🧷 Exploring artistic tattoo design in my spare time  
-
----
-
-## 📫 Get in Touch
-
-- 📧 kamila.gs@sempreceub.com  
-- 📱 +55 61 99552-9390  
-- 📍 Planaltina, DF – Brazil  
-
----
-
-> "Art and technology go hand in hand to turn ideas into powerful visual experiences."
+<p align="center">
+  <img height="135" src="https://github-readme-stats.vercel.app/api?username=kamilags232&show_icons=true&hide_title=true&hide_border=true&hide=contribs&border_radius=0&text_color=000000&icon_color=000000&ring_color=000000&bg_color=0,ff6b6b,feca57,55efc4" /><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilags232&layout=compact&hide_title=true&hide_border=true&border_radius=0&text_color=000000&bg_color=0,55efc4,48dbfb,a55eea" />
+</p>
