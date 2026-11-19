@@ -55,6 +55,10 @@
   <img src="./Tech.badges/AWS.svg" height="50" alt="AWS" />
 </p>
 
+<p align="center">
+  <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
+</p>
+
 <!-- Projects -->
 
 ### Projects
