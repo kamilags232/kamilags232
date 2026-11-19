@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="76" viewBox="0 0 196 76">
+  <rect x="4" y="4" width="188" height="68" rx="14" fill="#F4FBFD" />
+  <rect x="4" y="4" width="188" height="22" rx="14" fill="#BEE1E6" />
+  <rect x="4" y="15" width="188" height="11" fill="#BEE1E6" />
+  <line x1="4" y1="26" x2="192" y2="26" stroke="#8ECAE6" stroke-width="2" />
+  <rect x="4" y="4" width="188" height="68" rx="14" fill="none" stroke="#8ECAE6" stroke-width="2.5" />
+  <circle cx="19" cy="15" r="3" fill="#FF8FAB" />
+  <circle cx="29" cy="15" r="3" fill="#FFD166" />
+  <circle cx="39" cy="15" r="3" fill="#80ED99" />
+  <path d="M 176 11 L 177.5 13.5 L 180 15 L 177.5 16.5 L 176 19 L 174.5 16.5 L 172 15 L 174.5 13.5 Z" fill="#FFFFFF" />
+  <text x="98" y="54" font-family="Verdana, sans-serif" font-size="14" font-weight="bold" fill="#4A4E69" text-anchor="middle">Dashboard</text>
+</svg>
