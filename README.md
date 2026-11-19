@@ -65,9 +65,12 @@
   <img src="./projects.png" alt="Kami's Github" width="40%" />
 </p>
 
-[![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
-[![Projeto 2](https://img.shields.io/badge/Dashboard-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
-[![Projeto 3](https://img.shields.io/badge/API%20REST-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
+<p align="center">
+  <img src="./proj.badges/mysite.svg" height="50" alt="My site" />
+  <img src="./proj.badges/project1.svg" height="50" alt="Project 1" />
+  <img src="./proj.badges/project2.svg" height="50" alt="Project 2" />
+</p>
+
 
 <br>
 
