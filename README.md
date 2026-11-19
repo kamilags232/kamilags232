@@ -62,10 +62,9 @@
 <!-- Projects -->
 
 <p align="center">
-  <img src="./catputer.png" alt="Kami's Github" width="50%" />
+  <img src="./projects.png" alt="Kami's Github" width="50%" />
 </p>
 
-### Projects
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
 [![Projeto 2](https://img.shields.io/badge/Dashboard-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
 [![Projeto 3](https://img.shields.io/badge/API%20REST-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
@@ -74,4 +73,8 @@
 
 <p align="center">
   <img height="135" src="https://github-readme-stats.vercel.app/api?username=kamilags232&show_icons=true&hide_title=true&hide_border=true&hide=contribs&border_radius=0&text_color=000000&icon_color=000000&ring_color=000000&bg_color=0,ff6b6b,feca57,55efc4" /><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilags232&layout=compact&hide_title=true&hide_border=true&border_radius=0&text_color=000000&bg_color=0,55efc4,48dbfb,a55eea" />
+</p>
+
+<p align="center">
+  <img src="./catputer.png" alt="Kami's Github" width="50%" />
 </p>
