@@ -1,6 +1,11 @@
 <!-- BANNER DO TOPO (substitua pelo link do seu GIF ou imagem) -->
+
 <p align="center">
   <img src="./Kami%27s_Welcome.gif" alt="Kami's Github" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
 </p>
 
 ### Languages
