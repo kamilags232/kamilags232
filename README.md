@@ -62,7 +62,7 @@
 <!-- Projects -->
 
 <p align="center">
-  <img src="./projects.png" alt="Kami's Github" width="50%" />
+  <img src="./projects.png" alt="Kami's Github" width="40%" />
 </p>
 
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
