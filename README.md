@@ -8,6 +8,10 @@
   <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
 </p>
 
+<p align="left">
+  <img src="./aboutme.png" alt="Kami's Github" width="50%" />
+</p>
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
