@@ -66,9 +66,13 @@
 </p>
 
 <p align="center">
-  <img src="./proj.badges/mysite.svg" height="50" alt="My site" />
-  <img src="./proj.badges/project1.svg" height="50" alt="Project 1" />
-  <img src="./proj.badges/project2.svg" height="50" alt="Project 2" />
+  <img src="./proj.badges/mysite.svg" height="100" alt="My site" />
+  <img src="./proj.badges/project1.svg" height="100" alt="Project 1" />
+  <img src="./proj.badges/project2.svg" height="100" alt="Project 2" />
+</p>
+
+<p align="center">
+  <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
 </p>
 
 
