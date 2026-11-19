@@ -61,6 +61,10 @@
 
 <!-- Projects -->
 
+<p align="center">
+  <img src="./catputer.png" alt="Kami's Github" width="50%" />
+</p>
+
 ### Projects
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
 [![Projeto 2](https://img.shields.io/badge/Dashboard-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
