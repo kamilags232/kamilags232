@@ -37,15 +37,23 @@
   <img src="./badges/html.svg" height="50" alt="Html" />
 </p>
 
+<p align="center">
+  <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
+</p>
+
 <!-- Technologies -->
 
-### Technologies
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=orange)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+<p align="center">
+  <img src="./Technologies.png" alt="Kami's Github" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./Tech.badges/docker.svg" height="50" alt="Docker" />
+  <img src="./Tech.badges/linux.svg" height="50" alt="Linux" />
+  <img src="./Tech.badges/nodejs.svg" height="50" alt="Node.js" />
+  <img src="./Tech.badges/react.svg" height="50" alt="React" />
+  <img src="./Tech.badges/AWS.svg" height="50" alt="AWS" />
+</p>
 
 <!-- Projects -->
 
