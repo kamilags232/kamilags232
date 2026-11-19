@@ -8,9 +8,15 @@
   <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="./aboutme.png" alt="Kami's Github" width="50%" />
 </p>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&pause=1000&color=A8F1F7&background=C5FFDF00&repeat=false&width=500&height=100&lines=Hi!+I'm+Kami%2C+a+developer+passionate+about+building+clean%2C+creative%2C+and+functional+applications.+" alt="Typing SVG" /></a>
+
+</div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
