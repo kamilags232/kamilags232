@@ -13,12 +13,15 @@
 </p>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&pause=1000&color=A8F1F7&background=C5FFDF00&repeat=false&width=500&height=100&lines=Hi!+I'm+Kami%2C+a+developer+passionate+about+building+clean%2C+creative%2C+and+functional+applications.+" alt="Typing SVG" /></a>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&weight=500&size=15&pause=1000&color=F5B4F7&multiline=true&width=435&lines=Hi!+I'm+Kami%2C+a+developer+passionate+about+building+clean%2C+creative%2C+and+functional+applications.+;creative%2C+and+functional+applications.+" alt="Typing SVG" /></a>
 
 </div>
 
-### Languages
+<p align="center">
+  <img src="./languages.png" alt="Kami's Github" width="50%" />
+</p>
+
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
