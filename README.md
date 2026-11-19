@@ -1,6 +1,6 @@
 <!-- BANNER DO TOPO (substitua pelo link do seu GIF ou imagem) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,35:E2D1F9,70:CFE8FF,100:D4F8E8&height=210&section=header&text=Kami%27s%20Github&fontSize=48&fontColor=4A4063&fontAlignY=38&animation=twinkling" width="100%" />
+  <img src="./Kami%27s_Welcome.gif" alt="Kami's Github" width="100%" />
 </p>
 
 ### Languages
