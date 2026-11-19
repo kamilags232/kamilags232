@@ -24,12 +24,11 @@
   <img src="./languages.png" alt="Kami's Github" width="50%" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="./badges/python.svg" height="45" alt="Python" />
+  <img src="./badges/javascript.svg" height="45" alt="JavaScript" />
+  <img src="./badges/react.svg" height="45" alt="React" />
+</p>
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=orange)
