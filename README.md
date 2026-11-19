@@ -8,8 +8,10 @@
   <img src="./Estrelas.png" alt="Kami's Github" width="50%" />
 </p>
 
+<!-- About me -->
+
 <p align="center">
-  <img src="./aboutme.png" alt="Kami's Github" width="50%" />
+  <img src="./aboutme.png" alt="Kami's Github" width="40%" />
 </p>
 
 <div align="center">
@@ -20,15 +22,22 @@
 
 </div>
 
+<!-- Languages -->
+
 <p align="center">
   <img src="./languages.png" alt="Kami's Github" width="50%" />
 </p>
 
 <p align="center">
-  <img src="./badges/python.svg" height="45" alt="Python" />
-  <img src="./badges/javascript.svg" height="45" alt="JavaScript" />
-  <img src="./badges/react.svg" height="45" alt="React" />
+  <img src="./badges/python.svg" height="50" alt="Python" />
+  <img src="./badges/javascript.svg" height="50" alt="JavaScript" />
+  <img src="./badges/java.svg" height="50" alt="Java" />
+  <img src="./badges/cpp.svg" height="50" alt="C++" />
+  <img src="./badges/sql.svg" height="50" alt="SQL" />
+  <img src="./badges/html.svg" height="50" alt="Html" />
 </p>
+
+<!-- Technologies -->
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=orange)
@@ -37,6 +46,8 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react)
+
+<!-- Projects -->
 
 ### Projects
 [![Meu Site](https://img.shields.io/badge/Meu%20Site-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/kamilags232)
